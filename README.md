@@ -1,9 +1,11 @@
 # Hey! Welcome to my page! 👋
 
-I'm Gledson Afonso, I'm 29 years old and 5 of those years where dedicated to this wonderful career as software engineer in the back-end stack.
+I'm Gledson Afonso, I'm 29 years old and 5 of those years were dedicated to this wonderful career as a software engineer.
 
 ## Some more things about me
 
+- 👨🏻‍🎓 I have a bachelor's degree in Computer Engineering
+- 👨🏻‍💻 I currently work as a back-end developer
 - 🌱 I’m currently learning `HTML`, `CSS`, and `React` to become a fullstack developer
 - 👯 I’m looking to collaborate on anything open-source related that is withing my skill set
 - 💬 Ask me about `Java`, `Javascript`, and `Typescript`

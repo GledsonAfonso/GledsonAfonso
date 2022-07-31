@@ -7,7 +7,7 @@ I'm Gledson Afonso, I'm 29 years old and 5 of those years were dedicated to this
 - 👨🏻‍🎓 I have a bachelor's degree in Computer Engineering
 - 👨🏻‍💻 I currently work as a back-end developer
 - 🌱 I’m currently learning `HTML`, `CSS`, and `React` to become a fullstack developer
-- 👯 I’m looking to collaborate on anything open-source related that is withing my skill set
+- 👯 I’m looking to collaborate on anything open-source related that is within my skill set
 - 💬 Ask me about `Java`, `Javascript`, and `Typescript`
 - ⚡ Fun fact: I think platypuses are really cute! Did you know that they give off a biofluorescent green-blue glow when put under UV lights? [I'm not kidding](https://www.cbc.ca/kidsnews/post/platypuses-just-got-weirder-turns-out-they-glow-in-the-dark)
 

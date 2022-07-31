@@ -32,16 +32,17 @@ I'm Gledson Afonso, I'm 29 years old and 5 of those years where dedicated to thi
   <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 🎁 Open source projects
+## 🎁 Some of my open-source projects
 
 - [Crawler CLI](https://github.com/GledsonAfonso/crawler-cli)
 - [Trellog](https://github.com/GledsonAfonso/trellog)
 
-## Github stats
+## My Github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GledsonAfonso&show_icons=true&theme=gotham" alt="My Github stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GledsonAfonso&show_icons=true&theme=dracula" alt="My Github stats" />
 
 ## 📫 How to reach me
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gledson-albuquerque/)
 [<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/gledsonafonso)
+![](https://dcbadge.vercel.app/api/shield/367492996775673856)

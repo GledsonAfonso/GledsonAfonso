@@ -1,6 +1,6 @@
 # Hey! Welcome to my page! 👋
 
-I'm Gledson Afonso, I'm 29 years old and 5 of those years where dedicated to this wonderful career in Software Development as a Back-end developer. I am current
+I'm Gledson Afonso, I'm 29 years old and 5 of those years where dedicated to this wonderful career in Software Development as a Back-end developer. I am currently studying the Front-end stack to become a Fullstack developer.
 
 ## Some more things about me
 

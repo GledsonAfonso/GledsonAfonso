@@ -1,10 +1,10 @@
 # Hey! Welcome to my page! 👋
 
-I'm Gledson Afonso, I'm 29 years old and 5 of those years where dedicated to this wonderful career in Software Development as a Back-end developer. I am currently studying the Front-end stack to become a Fullstack developer.
+I'm Gledson Afonso, I'm 29 years old and 5 of those years where dedicated to this wonderful career as software engineer in the back-end stack.
 
 ## Some more things about me
 
-- 🌱 I’m currently learning `React`
+- 🌱 I’m currently learning `HTML`, `CSS`, and `React` to become a fullstack developer
 - 👯 I’m looking to collaborate on anything open-source related that is withing my skill set
 - 💬 Ask me about `Java`, `Javascript`, and `Typescript`
 - ⚡ Fun fact: I think platypuses are really cute! Did you know that they give off a biofluorescent green-blue glow when put under UV lights? [I'm not kidding](https://www.cbc.ca/kidsnews/post/platypuses-just-got-weirder-turns-out-they-glow-in-the-dark)

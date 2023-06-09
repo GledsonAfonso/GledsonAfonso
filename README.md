@@ -1,6 +1,6 @@
 # Hey! Welcome to my page! 👋
 
-I'm Gledson Afonso, I'm 29 years old and 5 of those years were dedicated to this wonderful career as a software engineer.
+I'm Gledson Afonso, I'm 30 years old and 6 of those years were dedicated to this wonderful career as a software engineer.
 
 ## Some more things about me
 

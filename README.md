@@ -1,14 +1,12 @@
 # Hey! Welcome to my page! 👋
 
-I'm Gledson Afonso, I'm 30 years old and 6 of those years were dedicated to this wonderful career as a software engineer.
+My name is Gledson Afonso and I have been working as a software engineer for the last 6 years now.
 
 ## Some more things about me
 
 - 👨🏻‍🎓 I have a bachelor's degree in Computer Engineering
 - 👨🏻‍💻 I currently work as a back-end developer
-- 👯 I’m looking to collaborate on anything open-source related that is within my skill set
 - 💬 Ask me about `Java`, `Javascript`, and `Typescript`
-- ⚡ Fun fact: I think platypuses are really cute! Did you know that they give off a biofluorescent green-blue glow when put under UV lights? [I'm not kidding](https://www.cbc.ca/kidsnews/post/platypuses-just-got-weirder-turns-out-they-glow-in-the-dark)
 
 ## Languages and tools
 <p>

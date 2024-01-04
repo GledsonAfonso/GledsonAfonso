@@ -5,7 +5,7 @@ My name is Gledson Afonso and I have been working as a software engineer for the
 ## Some more things about me
 
 - 👨🏻‍🎓 I have a bachelor's degree in Computer Engineering
-- 👨🏻‍💻 I currently work as a back-end developer
+- 👨🏻‍💻 I currently work as a software engineer (be)
 - 💬 Ask me about `Java`, `Javascript`, and `Typescript`
 
 ## Languages and tools

@@ -1,6 +1,6 @@
 # Hey! Welcome to my page! 👋
 
-My name is Gledson Afonso and I have been working as a software engineer for the last 6 years now.
+My name is Gledson Afonso and I have been working as a software engineer for the last 7 years now.
 
 ## Some more things about me
 

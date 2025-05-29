@@ -1,12 +1,12 @@
 # Hey! Welcome to my page! 👋
 
-My name is Gledson Afonso and I have been working as a software engineer for the last 7 years now.
+My name is Gledson Afonso and I have been working as a software engineer for the last 8 years now.
 
 ## Some more things about me
 
 - 👨🏻‍🎓 I have a bachelor's degree in Computer Engineering
 - 👨🏻‍💻 I currently work as a software engineer (be)
-- 💬 Ask me about `Java`, `Javascript`, and `Typescript`
+- 💬 Ask me about `TypeScript`/`JavaScript`, `Node.js` and `Java`
 
 ## Languages and tools
 <p>
@@ -43,10 +43,6 @@ My name is Gledson Afonso and I have been working as a software engineer for the
 
 - [Crawler CLI](https://github.com/GledsonAfonso/crawler-cli)
 - [Trellog](https://github.com/GledsonAfonso/trellog)
-
-## My Github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GledsonAfonso&show_icons=true&theme=dracula" alt="My Github stats" />
 
 ## 📫 How to reach me
 
